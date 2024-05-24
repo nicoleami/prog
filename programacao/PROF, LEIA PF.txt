@@ -1,0 +1,7 @@
+Prof, ajustamos os pontos citados na apresentação, entre eles:
+
+	- Relação entre entidades
+	- Ajuste das variáveis para os tipos ideais
+	- Ajuste no Editar
+
+Obrigada.
